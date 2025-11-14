@@ -197,6 +197,11 @@ h4{
  .col-2 .offer-img{
    padding: 50px;
  }
+ .offer-img:hover{
+    transform: rotate(15deg);
+    transition: ease-in-out;
+   
+ }
  small{
     color: #555;
  }
